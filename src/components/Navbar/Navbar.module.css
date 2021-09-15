@@ -1,0 +1,20 @@
+ul {
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+.nav {
+  grid-area: n;
+  background-color: rgb(117, 204, 30);
+}
+
+.item {
+    color: white;
+}
+
+.item.active {
+  color: gold;
+}
